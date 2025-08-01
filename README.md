@@ -13,3 +13,4 @@ A project inspired by nerds like me who care about word count in books! 🤓
 - [Contributing](#contributing)
 - [License](#license)
 
+## About
