@@ -23,4 +23,4 @@ With a simple interface, BookBot provides:
 ## Demo
 In this screenshot, I have uploaded the book Moby Dick transcript as a .txt file, authored by the great and powerful Herman Melville.
 When python3 main.py <path_to_book> is entered here is the result:
-![BookBot Screenshot](assets/bookbot-screenshot.png)
+![BookBot Screenshot](assets/bookbot_github.png)
