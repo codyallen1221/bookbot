@@ -6,7 +6,6 @@ A project inspired by nerds like me who care about word count in books! 🤓
 
 - [About](#about)
 - [Demo](#demo)
-- [Features](#features)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 
@@ -21,10 +20,6 @@ With a simple interface, BookBot provides:
 In this screenshot, I have uploaded the book Moby Dick transcript as a .txt file, authored by the great and powerful Herman Melville.
 When python3 main.py <path_to_book> is entered here is the result:
 ![BookBot Screenshot](assets/bookbot_github.png)
-
-## Features
-Abilites to count letters and words in a document
-***Front end UI coming soon.
 
 ## Technologies
 Python
